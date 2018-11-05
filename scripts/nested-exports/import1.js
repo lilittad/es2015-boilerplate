@@ -1,0 +1,1 @@
+import * as import2 from './import2.js';

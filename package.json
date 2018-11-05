@@ -1,0 +1,32 @@
+{
+  "name": "jokes_factory",
+  "version": "1.0.0",
+  "description": "Jokes Factory app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "legacy": "webpack --config webpack.config.legacy",
+    "modern": "webpack --config webpack.config.modern.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilittad/jokes_factory.git"
+  },
+  "author": "Lilit Tadevosyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilittad/jokes_factory/issues"
+  },
+  "homepage": "https://github.com/lilittad/jokes_factory#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.0",
+    "@babel/plugin-proposal-export-default-from": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "babel-loader": "^8.0.4",
+    "babel-preset-env": "^1.7.0",
+    "file-loader": "^2.0.0",
+    "webpack": "^4.21.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  },
+  "dependencies": {}
+}
