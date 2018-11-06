@@ -5,7 +5,7 @@ This is a boilerplate project which shows how you can deploy ES2015+ code to pro
 The boilerplate project has been created for JavaScript Conference Armenia(jsconfam18).
 
 Here is link of presentation
-https://docs.google.com/presentation/d/1nwXYF6POhhSelww4lvnB61KRocpur9wlIx2DPixFTWI/edit?usp=drivesdk
+https://docs.google.com/presentation/d/1nwXYF6POhhSelww4lvnB61KRocpur9wlIx2DPixFTWI
 
 # Technics
 
@@ -25,7 +25,7 @@ In index.html file there are 2 lines of code
 Modern browsers execute bundle.modern.mjs
 Old browsers execute bundle.legacy.js
 
-#How to run app
+# How to run app
 
 ```
 npm install
